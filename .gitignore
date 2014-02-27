@@ -1,0 +1,7 @@
+Debug/
+maps/
+*.dat
+*.out
+*.opj
+.project
+.cproject
